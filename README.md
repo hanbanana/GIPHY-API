@@ -5,6 +5,5 @@ An api based web-page that pulls in images based on the movie name you select. C
 See your favorite movie in GIPHY action: [Movie GIF Lookup](https://hanbanana.github.io/GIPHY-API/)
 
 ### Screenshot
-<<<<<<< HEAD
 ![Giphy-Api Screenshot](https://github.com/hanbanana/GIPHY-API/blob/master/screenshots/giphy-api.JPG)
 
